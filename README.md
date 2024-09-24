@@ -1,11 +1,11 @@
-# Desafio Classificador de nível de Herói 
-Primeiro desafio do curso de Formação Lógica de Programação da DIO.
+<h1 align="center">Desafio Classificador de Nível de Herói </h1>
 
-**O que deve ser utilizado:**
+Primeiro desafio do curso de Formação Lógica de Programação da DIO desenvolvido em JavaScript.
+
+**O que foi utilizado:**
 + Variáveis
 + Operadores
 + Estruturas de decisões
-+ Laços de repetição
 
 ## Objetivo
 Criar uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilizar uma estrutura de decisão para apresentar alguma das mensagens abaixo:
